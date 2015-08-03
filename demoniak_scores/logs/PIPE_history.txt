@@ -1,0 +1,21 @@
+
+*****************************************
+The pipeline PIPE is now being processed.
+Started on 03-Aug-2015 02:58:56
+user: , host: d462b72e199d, system: unix
+*****************************************
+03-Aug-2015 02:58:56 scores_resample_part           submitted (1 run / 0 fail / 0 done / 3 left)
+03-Aug-2015 02:58:56 scores_resample_part           completed (0 run / 0 fail / 1 done / 3 left)
+03-Aug-2015 02:58:56 scores_resample_mask           submitted (1 run / 0 fail / 1 done / 2 left)
+03-Aug-2015 02:58:57 scores_resample_mask           completed (0 run / 0 fail / 2 done / 2 left)
+03-Aug-2015 02:58:57 scores_subject1_session1_motor submitted (1 run / 0 fail / 2 done / 1 left)
+03-Aug-2015 02:59:00 scores_subject1_session1_motor completed (0 run / 0 fail / 3 done / 1 left)
+03-Aug-2015 02:59:00 scores_subject2_session1_motor submitted (1 run / 0 fail / 3 done / 0 left)
+03-Aug-2015 02:59:02 scores_subject2_session1_motor completed (0 run / 0 fail / 4 done / 0 left)
+
+*********************************************
+The processing of the pipeline is terminated.
+See report below for job completion status.
+03-Aug-2015 02:59:02
+*********************************************
+All jobs have been successfully completed.

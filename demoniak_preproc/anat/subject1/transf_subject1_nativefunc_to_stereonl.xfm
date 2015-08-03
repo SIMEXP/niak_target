@@ -1,0 +1,10 @@
+MNI Transform File
+%Mon Aug  3 02:53:17 2015>>> xfmconcat /niak/work/targets/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereolin.xfm /niak/work/targets/result/demoniak_preproc/anat/subject1/transf_subject1_stereolin_to_stereonl.xfm /niak/work/targets/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereonl.xfm
+
+Transform_Type = Linear;
+Linear_Transform =
+ 0.995161362802161 -0.0027723141548707 0.00396354443242908 -1.54331167478206
+ 0.00239050107120154 0.988683650579207 0.0913343350015 -2.7680429143032
+ -0.00460010911012162 -0.10021129874401 1.0848960646742 -2.4523081063358;
+Transform_Type = Grid_Transform;
+Displacement_Volume = transf_subject1_nativefunc_to_stereonl_grid_0.mnc;
