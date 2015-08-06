@@ -1,47 +1,41 @@
-
-*****************************************
-The pipeline PIPE is now being processed.
-Started on 03-Aug-2015 02:56:22
-user: , host: d462b72e199d, system: unix
-*****************************************
-03-Aug-2015 02:56:22 networks_cambridge100           submitted (1 run / 0 fail / 0 done / 16 left)
-03-Aug-2015 02:56:23 networks_cambridge100           completed (0 run / 0 fail / 1 done / 16 left)
-03-Aug-2015 02:56:23 networks_cambridge100bis        submitted (1 run / 0 fail / 1 done / 15 left)
-03-Aug-2015 02:56:23 networks_cambridge100bis        completed (0 run / 0 fail / 2 done / 15 left)
-03-Aug-2015 02:56:23 fir_subject1a                   submitted (1 run / 0 fail / 2 done / 14 left)
-03-Aug-2015 02:56:24 fir_subject1a                   completed (0 run / 0 fail / 3 done / 14 left)
-03-Aug-2015 02:56:24 fir_subject1b                   submitted (1 run / 0 fail / 3 done / 13 left)
-03-Aug-2015 02:56:25 fir_subject1b                   completed (0 run / 0 fail / 4 done / 13 left)
-03-Aug-2015 02:56:25 fir_subject1c                   submitted (1 run / 0 fail / 4 done / 12 left)
-03-Aug-2015 02:56:26 fir_subject1c                   completed (0 run / 0 fail / 5 done / 12 left)
-03-Aug-2015 02:56:26 fir_subject1d                   submitted (1 run / 0 fail / 5 done / 11 left)
-03-Aug-2015 02:56:27 fir_subject1d                   completed (0 run / 0 fail / 6 done / 11 left)
-03-Aug-2015 02:56:27 fir_subject2a                   submitted (1 run / 0 fail / 6 done / 10 left)
-03-Aug-2015 02:56:28 fir_subject2a                   completed (0 run / 0 fail / 7 done / 10 left)
-03-Aug-2015 02:56:28 fir_subject2b                   submitted (1 run / 0 fail / 7 done / 9 left)
-03-Aug-2015 02:56:29 fir_subject2b                   completed (0 run / 0 fail / 8 done / 9 left)
-03-Aug-2015 02:56:29 fir_subject2c                   submitted (1 run / 0 fail / 8 done / 8 left)
-03-Aug-2015 02:56:30 fir_subject2c                   completed (0 run / 0 fail / 9 done / 8 left)
-03-Aug-2015 02:56:30 fir_subject2d                   submitted (1 run / 0 fail / 9 done / 7 left)
-03-Aug-2015 02:56:31 fir_subject2d                   completed (0 run / 0 fail / 10 done / 7 left)
-03-Aug-2015 02:56:31 glm_avg_fir                     submitted (1 run / 0 fail / 10 done / 6 left)
-03-Aug-2015 02:56:33 glm_avg_fir                     completed (0 run / 0 fail / 11 done / 6 left)
-03-Aug-2015 02:56:33 glm_sub1_m_sub2                 submitted (1 run / 0 fail / 11 done / 5 left)
-03-Aug-2015 02:56:35 glm_sub1_m_sub2                 completed (0 run / 0 fail / 12 done / 5 left)
-03-Aug-2015 02:56:35 permutation_avg_fir_batch_1     submitted (1 run / 0 fail / 12 done / 4 left)
-03-Aug-2015 02:56:35 permutation_avg_fir_batch_1     completed (0 run / 0 fail / 13 done / 4 left)
-03-Aug-2015 02:56:35 permutation_sub1_m_sub2_batch_1 submitted (1 run / 0 fail / 13 done / 3 left)
-03-Aug-2015 02:56:35 permutation_sub1_m_sub2_batch_1 completed (0 run / 0 fail / 14 done / 3 left)
-03-Aug-2015 02:56:35 permutation_avg_fir_batch_2     submitted (1 run / 0 fail / 14 done / 2 left)
-03-Aug-2015 02:56:35 permutation_avg_fir_batch_2     completed (0 run / 0 fail / 15 done / 2 left)
-03-Aug-2015 02:56:35 permutation_sub1_m_sub2_batch_2 submitted (1 run / 0 fail / 15 done / 1 left)
-03-Aug-2015 02:56:35 permutation_sub1_m_sub2_batch_2 completed (0 run / 0 fail / 16 done / 1 left)
-03-Aug-2015 02:56:35 summary_findings                submitted (1 run / 0 fail / 16 done / 0 left)
-03-Aug-2015 02:56:35 summary_findings                completed (0 run / 0 fail / 17 done / 0 left)
-
-*********************************************
-The processing of the pipeline is terminated.
-See report below for job completion status.
-03-Aug-2015 02:56:35
-*********************************************
+****************************************
+Pipeline started on 06-Aug-2015 16:29:08
+user: , host: 6a066658f1e4, system: unix
+****************************************
+06-Aug-2015 16:29:08 networks_cambridge100           submitted (1 run / 0 fail / 0 done / 16 left)
+06-Aug-2015 16:29:09 networks_cambridge100           completed (0 run / 0 fail / 1 done / 16 left)
+06-Aug-2015 16:29:09 networks_cambridge100bis        submitted (1 run / 0 fail / 1 done / 15 left)
+06-Aug-2015 16:29:09 networks_cambridge100bis        completed (0 run / 0 fail / 2 done / 15 left)
+06-Aug-2015 16:29:09 fir_subject1a                   submitted (1 run / 0 fail / 2 done / 14 left)
+06-Aug-2015 16:29:10 fir_subject1a                   completed (0 run / 0 fail / 3 done / 14 left)
+06-Aug-2015 16:29:10 fir_subject1b                   submitted (1 run / 0 fail / 3 done / 13 left)
+06-Aug-2015 16:29:11 fir_subject1b                   completed (0 run / 0 fail / 4 done / 13 left)
+06-Aug-2015 16:29:11 fir_subject1c                   submitted (1 run / 0 fail / 4 done / 12 left)
+06-Aug-2015 16:29:12 fir_subject1c                   completed (0 run / 0 fail / 5 done / 12 left)
+06-Aug-2015 16:29:12 fir_subject1d                   submitted (1 run / 0 fail / 5 done / 11 left)
+06-Aug-2015 16:29:13 fir_subject1d                   completed (0 run / 0 fail / 6 done / 11 left)
+06-Aug-2015 16:29:13 fir_subject2a                   submitted (1 run / 0 fail / 6 done / 10 left)
+06-Aug-2015 16:29:14 fir_subject2a                   completed (0 run / 0 fail / 7 done / 10 left)
+06-Aug-2015 16:29:14 fir_subject2b                   submitted (1 run / 0 fail / 7 done / 9 left)
+06-Aug-2015 16:29:15 fir_subject2b                   completed (0 run / 0 fail / 8 done / 9 left)
+06-Aug-2015 16:29:15 fir_subject2c                   submitted (1 run / 0 fail / 8 done / 8 left)
+06-Aug-2015 16:29:15 fir_subject2c                   completed (0 run / 0 fail / 9 done / 8 left)
+06-Aug-2015 16:29:15 fir_subject2d                   submitted (1 run / 0 fail / 9 done / 7 left)
+06-Aug-2015 16:29:16 fir_subject2d                   completed (0 run / 0 fail / 10 done / 7 left)
+06-Aug-2015 16:29:16 glm_avg_fir                     submitted (1 run / 0 fail / 10 done / 6 left)
+06-Aug-2015 16:29:18 glm_avg_fir                     completed (0 run / 0 fail / 11 done / 6 left)
+06-Aug-2015 16:29:18 glm_sub1_m_sub2                 submitted (1 run / 0 fail / 11 done / 5 left)
+06-Aug-2015 16:29:20 glm_sub1_m_sub2                 completed (0 run / 0 fail / 12 done / 5 left)
+06-Aug-2015 16:29:20 permutation_avg_fir_batch_1     submitted (1 run / 0 fail / 12 done / 4 left)
+06-Aug-2015 16:29:20 permutation_avg_fir_batch_1     completed (0 run / 0 fail / 13 done / 4 left)
+06-Aug-2015 16:29:20 permutation_sub1_m_sub2_batch_1 submitted (1 run / 0 fail / 13 done / 3 left)
+06-Aug-2015 16:29:20 permutation_sub1_m_sub2_batch_1 completed (0 run / 0 fail / 14 done / 3 left)
+06-Aug-2015 16:29:20 permutation_avg_fir_batch_2     submitted (1 run / 0 fail / 14 done / 2 left)
+06-Aug-2015 16:29:20 permutation_avg_fir_batch_2     completed (0 run / 0 fail / 15 done / 2 left)
+06-Aug-2015 16:29:20 permutation_sub1_m_sub2_batch_2 submitted (1 run / 0 fail / 15 done / 1 left)
+06-Aug-2015 16:29:20 permutation_sub1_m_sub2_batch_2 completed (0 run / 0 fail / 16 done / 1 left)
+06-Aug-2015 16:29:20 summary_findings                submitted (1 run / 0 fail / 16 done / 0 left)
+06-Aug-2015 16:29:20 summary_findings                completed (0 run / 0 fail / 17 done / 0 left)
+*******************************************
+Pipeline terminated on 06-Aug-2015 16:29:20
 All jobs have been successfully completed.

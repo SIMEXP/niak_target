@@ -1,55 +1,49 @@
-
-*****************************************
-The pipeline PIPE is now being processed.
-Started on 03-Aug-2015 02:54:46
-user: , host: d462b72e199d, system: unix
-*****************************************
-03-Aug-2015 02:54:46 build_test_data                    submitted (1 run / 0 fail / 0 done / 20 left)
-03-Aug-2015 02:54:54 build_test_data                    completed (0 run / 0 fail / 1 done / 20 left)
-03-Aug-2015 02:54:54 networks_network4                  submitted (1 run / 0 fail / 1 done / 19 left)
-03-Aug-2015 02:54:55 networks_network4                  completed (0 run / 0 fail / 2 done / 19 left)
-03-Aug-2015 02:54:55 networks_network16                 submitted (1 run / 0 fail / 2 done / 18 left)
-03-Aug-2015 02:54:55 networks_network16                 completed (0 run / 0 fail / 3 done / 18 left)
-03-Aug-2015 02:54:55 connectome_subject1                submitted (1 run / 0 fail / 3 done / 17 left)
-03-Aug-2015 02:54:56 connectome_subject1                completed (0 run / 0 fail / 4 done / 17 left)
-03-Aug-2015 02:54:56 connectome_subject2                submitted (1 run / 0 fail / 4 done / 16 left)
-03-Aug-2015 02:54:56 connectome_subject2                completed (0 run / 0 fail / 5 done / 16 left)
-03-Aug-2015 02:54:56 connectome_subject3                submitted (1 run / 0 fail / 5 done / 15 left)
-03-Aug-2015 02:54:57 connectome_subject3                completed (0 run / 0 fail / 6 done / 15 left)
-03-Aug-2015 02:54:57 connectome_subject4                submitted (1 run / 0 fail / 6 done / 14 left)
-03-Aug-2015 02:54:58 connectome_subject4                completed (0 run / 0 fail / 7 done / 14 left)
-03-Aug-2015 02:54:58 network4_glm_avg_corr_all          submitted (1 run / 0 fail / 7 done / 13 left)
-03-Aug-2015 02:54:59 network4_glm_avg_corr_all          completed (0 run / 0 fail / 8 done / 13 left)
-03-Aug-2015 02:54:59 network4_glm_avg_corr_young        submitted (1 run / 0 fail / 8 done / 12 left)
-03-Aug-2015 02:55:00 network4_glm_avg_corr_young        completed (0 run / 0 fail / 9 done / 12 left)
-03-Aug-2015 02:55:00 network4_glm_corr_vs_age           submitted (1 run / 0 fail / 9 done / 11 left)
-03-Aug-2015 02:55:00 network4_glm_corr_vs_age           completed (0 run / 0 fail / 10 done / 11 left)
-03-Aug-2015 02:55:00 network16_glm_avg_corr_all         submitted (1 run / 0 fail / 10 done / 10 left)
-03-Aug-2015 02:55:01 network16_glm_avg_corr_all         completed (0 run / 0 fail / 11 done / 10 left)
-03-Aug-2015 02:55:01 network16_glm_avg_corr_young       submitted (1 run / 0 fail / 11 done / 9 left)
-03-Aug-2015 02:55:02 network16_glm_avg_corr_young       completed (0 run / 0 fail / 12 done / 9 left)
-03-Aug-2015 02:55:02 network16_glm_corr_vs_age          submitted (1 run / 0 fail / 12 done / 8 left)
-03-Aug-2015 02:55:03 network16_glm_corr_vs_age          completed (0 run / 0 fail / 13 done / 8 left)
-03-Aug-2015 02:55:03 permutation_avg_corr_all_batch_1   submitted (1 run / 0 fail / 13 done / 7 left)
-03-Aug-2015 02:55:08 permutation_avg_corr_all_batch_1   completed (0 run / 0 fail / 14 done / 7 left)
-03-Aug-2015 02:55:08 permutation_avg_corr_young_batch_1 submitted (1 run / 0 fail / 14 done / 6 left)
-03-Aug-2015 02:55:14 permutation_avg_corr_young_batch_1 completed (0 run / 0 fail / 15 done / 6 left)
-03-Aug-2015 02:55:14 permutation_corr_vs_age_batch_1    submitted (1 run / 0 fail / 15 done / 5 left)
-03-Aug-2015 02:55:20 permutation_corr_vs_age_batch_1    completed (0 run / 0 fail / 16 done / 5 left)
-03-Aug-2015 02:55:20 permutation_avg_corr_all_batch_2   submitted (1 run / 0 fail / 16 done / 4 left)
-03-Aug-2015 02:55:26 permutation_avg_corr_all_batch_2   completed (0 run / 0 fail / 17 done / 4 left)
-03-Aug-2015 02:55:26 permutation_avg_corr_young_batch_2 submitted (1 run / 0 fail / 17 done / 3 left)
-03-Aug-2015 02:55:32 permutation_avg_corr_young_batch_2 completed (0 run / 0 fail / 18 done / 3 left)
-03-Aug-2015 02:55:32 permutation_corr_vs_age_batch_2    submitted (1 run / 0 fail / 18 done / 2 left)
-03-Aug-2015 02:55:38 permutation_corr_vs_age_batch_2    completed (0 run / 0 fail / 19 done / 2 left)
-03-Aug-2015 02:55:38 summary_findings                   submitted (1 run / 0 fail / 19 done / 1 left)
-03-Aug-2015 02:55:38 summary_findings                   completed (0 run / 0 fail / 20 done / 1 left)
-03-Aug-2015 02:55:38 check_test_correlation             submitted (1 run / 0 fail / 20 done / 0 left)
-03-Aug-2015 02:55:39 check_test_correlation             completed (0 run / 0 fail / 21 done / 0 left)
-
-*********************************************
-The processing of the pipeline is terminated.
-See report below for job completion status.
-03-Aug-2015 02:55:39
-*********************************************
+****************************************
+Pipeline started on 06-Aug-2015 16:27:52
+user: , host: 6a066658f1e4, system: unix
+****************************************
+06-Aug-2015 16:27:52 build_test_data                    submitted (1 run / 0 fail / 0 done / 20 left)
+06-Aug-2015 16:27:58 build_test_data                    completed (0 run / 0 fail / 1 done / 20 left)
+06-Aug-2015 16:27:58 networks_network4                  submitted (1 run / 0 fail / 1 done / 19 left)
+06-Aug-2015 16:27:58 networks_network4                  completed (0 run / 0 fail / 2 done / 19 left)
+06-Aug-2015 16:27:58 networks_network16                 submitted (1 run / 0 fail / 2 done / 18 left)
+06-Aug-2015 16:27:58 networks_network16                 completed (0 run / 0 fail / 3 done / 18 left)
+06-Aug-2015 16:27:58 connectome_subject1                submitted (1 run / 0 fail / 3 done / 17 left)
+06-Aug-2015 16:27:59 connectome_subject1                completed (0 run / 0 fail / 4 done / 17 left)
+06-Aug-2015 16:27:59 connectome_subject2                submitted (1 run / 0 fail / 4 done / 16 left)
+06-Aug-2015 16:28:00 connectome_subject2                completed (0 run / 0 fail / 5 done / 16 left)
+06-Aug-2015 16:28:00 connectome_subject3                submitted (1 run / 0 fail / 5 done / 15 left)
+06-Aug-2015 16:28:00 connectome_subject3                completed (0 run / 0 fail / 6 done / 15 left)
+06-Aug-2015 16:28:00 connectome_subject4                submitted (1 run / 0 fail / 6 done / 14 left)
+06-Aug-2015 16:28:01 connectome_subject4                completed (0 run / 0 fail / 7 done / 14 left)
+06-Aug-2015 16:28:01 network4_glm_avg_corr_all          submitted (1 run / 0 fail / 7 done / 13 left)
+06-Aug-2015 16:28:01 network4_glm_avg_corr_all          completed (0 run / 0 fail / 8 done / 13 left)
+06-Aug-2015 16:28:01 network4_glm_avg_corr_young        submitted (1 run / 0 fail / 8 done / 12 left)
+06-Aug-2015 16:28:02 network4_glm_avg_corr_young        completed (0 run / 0 fail / 9 done / 12 left)
+06-Aug-2015 16:28:02 network4_glm_corr_vs_age           submitted (1 run / 0 fail / 9 done / 11 left)
+06-Aug-2015 16:28:03 network4_glm_corr_vs_age           completed (0 run / 0 fail / 10 done / 11 left)
+06-Aug-2015 16:28:03 network16_glm_avg_corr_all         submitted (1 run / 0 fail / 10 done / 10 left)
+06-Aug-2015 16:28:03 network16_glm_avg_corr_all         completed (0 run / 0 fail / 11 done / 10 left)
+06-Aug-2015 16:28:03 network16_glm_avg_corr_young       submitted (1 run / 0 fail / 11 done / 9 left)
+06-Aug-2015 16:28:04 network16_glm_avg_corr_young       completed (0 run / 0 fail / 12 done / 9 left)
+06-Aug-2015 16:28:04 network16_glm_corr_vs_age          submitted (1 run / 0 fail / 12 done / 8 left)
+06-Aug-2015 16:28:05 network16_glm_corr_vs_age          completed (0 run / 0 fail / 13 done / 8 left)
+06-Aug-2015 16:28:05 permutation_avg_corr_all_batch_1   submitted (1 run / 0 fail / 13 done / 7 left)
+06-Aug-2015 16:28:09 permutation_avg_corr_all_batch_1   completed (0 run / 0 fail / 14 done / 7 left)
+06-Aug-2015 16:28:09 permutation_avg_corr_young_batch_1 submitted (1 run / 0 fail / 14 done / 6 left)
+06-Aug-2015 16:28:13 permutation_avg_corr_young_batch_1 completed (0 run / 0 fail / 15 done / 6 left)
+06-Aug-2015 16:28:13 permutation_corr_vs_age_batch_1    submitted (1 run / 0 fail / 15 done / 5 left)
+06-Aug-2015 16:28:17 permutation_corr_vs_age_batch_1    completed (0 run / 0 fail / 16 done / 5 left)
+06-Aug-2015 16:28:17 permutation_avg_corr_all_batch_2   submitted (1 run / 0 fail / 16 done / 4 left)
+06-Aug-2015 16:28:21 permutation_avg_corr_all_batch_2   completed (0 run / 0 fail / 17 done / 4 left)
+06-Aug-2015 16:28:21 permutation_avg_corr_young_batch_2 submitted (1 run / 0 fail / 17 done / 3 left)
+06-Aug-2015 16:28:25 permutation_avg_corr_young_batch_2 completed (0 run / 0 fail / 18 done / 3 left)
+06-Aug-2015 16:28:25 permutation_corr_vs_age_batch_2    submitted (1 run / 0 fail / 18 done / 2 left)
+06-Aug-2015 16:28:30 permutation_corr_vs_age_batch_2    completed (0 run / 0 fail / 19 done / 2 left)
+06-Aug-2015 16:28:30 summary_findings                   submitted (1 run / 0 fail / 19 done / 1 left)
+06-Aug-2015 16:28:30 summary_findings                   completed (0 run / 0 fail / 20 done / 1 left)
+06-Aug-2015 16:28:30 check_test_correlation             submitted (1 run / 0 fail / 20 done / 0 left)
+06-Aug-2015 16:28:30 check_test_correlation             completed (0 run / 0 fail / 21 done / 0 left)
+*******************************************
+Pipeline terminated on 06-Aug-2015 16:28:30
 All jobs have been successfully completed.
