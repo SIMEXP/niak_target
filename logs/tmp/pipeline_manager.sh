@@ -1,2 +1,0 @@
-"/usr/bin/octave" --silent --eval "load('/home/surchs/test2/~/test2/logs//PIPE.mat','path_work'), if ~ismember(path_work,{'gb_niak_omitted','gb_psom_omitted'}), path(path_work), end, load('/home/surchs/test2/~/test2/logs//PIPE_manager_opt.mat'), psom_pipeline_process('/home/surchs/test2/~/test2/logs//PIPE.mat',opt),exit" >"/home/surchs/test2/~/test2/logs//PIPE.log" 2>&1
-touch "/home/surchs/test2/~/test2/logs//PIPE.exit"
