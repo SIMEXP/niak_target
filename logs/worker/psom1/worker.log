@@ -1,0 +1,20 @@
+Deleting file '/niak/work/targets/result/logs/worker/psom1/new_jobs.mat' 
+Deleting file '/niak/work/targets/result/logs/worker/psom1/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : gcon_summary_findings
+Started on 22-Feb-2016 04:28:52
+User: 
+host : 7cda7653bcd8
+system : unix
+******************************
+
+
+The output file or directory /niak/work/targets/result/demoniak_glm_connectome/summary_findings.csv was successfully generated!
+
+*********************************************************
+22-Feb-2016 04:28:52 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+22-Feb-2016 04:28:53 - The manager has requested to end the work asap!
+

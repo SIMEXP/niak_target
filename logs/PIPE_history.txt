@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0966fe71630f60bbcdc53a0517aded0e3d5737ff24f87d697c0c2b74332b709
-size 128647
+
+Pipeline started on 22-Feb-2016 04:28:51
+user: , host: 7cda7653bcd8, system: unix
+****************************************
+22-Feb-2016 04:28:52 gcon_summary_findings                         submitted  (1 run / 0 fail / 556 done / 0 left)
+22-Feb-2016 04:28:52 Stopping idle worker 2 (not enough jobs left to do).
+22-Feb-2016 04:28:53 gcon_summary_findings                         finished   (0 run / 0 fail / 557 done / 0 left)
+22-Feb-2016 04:28:53 Stopping idle worker 1 (not enough jobs left to do).
+
+*******************************************
+Pipeline terminated on 22-Feb-2016 04:28:53
+All jobs have been successfully completed.
+
