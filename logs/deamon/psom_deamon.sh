@@ -1,2 +1,0 @@
-"/usr/bin/octave" --silent --eval "load('/niak/work/targets/result/logs/PIPE.mat','path_work'), if ~ismember(path_work,{'gb_niak_omitted','gb_psom_omitted'}), path(path_work), end, psom_deamon('/niak/work/targets/result/logs/');,exit" >"/niak/work/targets/result/logs/deamon/deamon.log" 2>&1
-touch "/niak/work/targets/result/logs/deamon/deamon.exit"
